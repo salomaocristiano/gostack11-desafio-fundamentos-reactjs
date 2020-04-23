@@ -41,7 +41,7 @@
 
 ## :rocket: Sobre o desafio
 
-Aaplicação que irá se conectar ao seu backend do [Desafio 06](https://github.com/salomaocristiano/gostack11-desafio-fundamentos-reactjs), e exibir as transações criadas e permitir a importação de um arquivo CSV para gerar novos registros no banco de dados
+Aplicação que irá se conectar ao seu backend do [Desafio 06](https://github.com/salomaocristiano/gostack11-desafio-fundamentos-reactjs), e exibir as transações criadas e permitir a importação de um arquivo CSV para gerar novos registros no banco de dados
 
 ### Rotas da aplicação
 
